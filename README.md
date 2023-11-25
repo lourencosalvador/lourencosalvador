@@ -1,9 +1,5 @@
-### Hi there 👋
+### Ola sou o Lourenco Cardoso 😊👌👋
 
-
-**lourencosalvador/lourencosalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Typescript e Nextjs
