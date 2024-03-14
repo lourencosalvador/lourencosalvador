@@ -31,5 +31,9 @@
   <a href = "mailto:lourencocardoso007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lourenco-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  ##
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lourencosalvador&bg_color=000000&color=80ffff&line=00ffff&point=008080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
 
