@@ -1,4 +1,4 @@
-### Ola sou o Lourenco Cardoso 😊👌👋
+### Ola sou o Lourenco Cardoso 
 
 
 - 🔭 Hoje trabalho como Software Developer
