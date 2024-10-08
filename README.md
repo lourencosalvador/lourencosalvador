@@ -1,8 +1,8 @@
 ### Ola sou o Lourenco Cardoso 
 
 
-- 🔭 Hoje trabalho como Software Developer
-- 🌱 Estudando Nodejs e ReactNative
+- 🔭 Hoje trabalho como Frontend/Mobile Developer
+- 🌱 Estudando Kotlin
 - 😄 Pronouns: ele/dele
 
   <div>
